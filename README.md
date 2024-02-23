@@ -8,7 +8,7 @@ Website:
 https://kmuhsinn.com
 
 Resume:
-http://https://kmuhsinn.com/MuhsinResume.pdf
+https://kmuhsinn.com/MuhsinResume.pdf
 
 ## 🔗 Let's Connect!
 
