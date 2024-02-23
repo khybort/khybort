@@ -5,10 +5,10 @@ I’m a software craftsperson who loves to be in the center of creating software
 I have three years of experience and worked for 3 companies. I have worked in the following industries; artificial intelligence, cyber security, defense, mission-critical and government. I have worked on-site, remote company environments. I have both experience in synchronous and asynchronous development environments.
 
 Website:
-http://kmuhsinn.com
+https://kmuhsinn.com
 
 Resume:
-http://http://kmuhsinn.com/MuhsinINGCV190124.pdf
+http://https://kmuhsinn.com/MuhsinINGCV190124.pdf
 
 ## 🔗 Let's Connect!
 
